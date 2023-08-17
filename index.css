@@ -44,7 +44,7 @@
 }
 .btn:hover{
     transform: translateY(-10px);
-    border-radius: 50%;
+    
 }
 .bottom-img{
     width: 100%;
