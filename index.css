@@ -7,7 +7,7 @@
     position: sticky;
     top: 0;
     z-index: 10;
-    background-image: linear-gradient(to right, #a517ba,#5f1782);
+    background-image: linear-gradient(to right, #7DFDFE,#a517ba);
     padding: 0;
     
 }
@@ -29,7 +29,7 @@
 }
 /*---------Banner--------*/
 #banner{
-    background-image: linear-gradient(to right, #a517ba,#5f1782);
+    background-image: linear-gradient(to right, #7DFDFE,#a517ba);
     column-rule: #fff;
     padding-top: 5%;
 }
@@ -190,7 +190,7 @@
     text-align: center;
     padding-top: 7px;
     border-radius: 2px;
-    background-image: linear-gradient(to right, #a517ba,#5f1782);
+    background-image: linear-gradient(to right, #7DFDFE,#a517ba);
 }
 .footer-box .form-control{
     box-shadow: none !important;
@@ -204,7 +204,7 @@
     border: none;
     border-radius: 8px;
     margin-top: 30px;
-    background-image: linear-gradient(to right, #a517ba,#5f1782);
+    background-image: linear-gradient(to right, #7DFDFE,#a517ba);
 }
 hr{
     background-color: white;
