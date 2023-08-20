@@ -40,7 +40,7 @@
 }
 .btn{
     width: 100px;
-    margin: 0px;
+    margin: 20px;
 }
 .btn:hover{
     transform: translateY(-10px);
@@ -91,6 +91,7 @@
 }
 .btn{
     width: 126px;
+    margin: 0px;
 }
 .btn-primary{
     box-shadow: none;
