@@ -212,6 +212,21 @@ p{
 }
 
 
+.project ul{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.project ul li {
+    list-style: none;
+    font-weight: 600;
+}
+.project ul li a{
+    text-decoration: none;
+    color: #03a9f4;
+    
+}
+
+
 @media (max-width: 1000px){
     .container{
         margin: 10px;
